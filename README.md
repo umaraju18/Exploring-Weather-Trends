@@ -1,1 +1,1 @@
-# UdacityProjects
+# Exploring Weather Trends
